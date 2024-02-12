@@ -1,2 +1,2 @@
 # RPA-VizAfrica
-A compilation of resoiurces for Vizafrica Conference
+A compilation of resources for Vizafrica Conference
